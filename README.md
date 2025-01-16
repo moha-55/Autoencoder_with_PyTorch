@@ -46,8 +46,8 @@ A custom PyTorch module that adds Gaussian noise during training to enhance mode
 
 1. Clone the repository and navigate to the project folder:
 ```
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/moha-55/Autoencoder_with_PyTorch
+cd Autoencoder_with_PyTorch
 ```
 2. Open the notebook 1-Autoencoder.ipynb in Jupyter Notebook or JupyterLab.
 
@@ -59,3 +59,12 @@ cd <repository_folder>
 
 - Evaluate its performance.
 
+## Usage
+
+This implementation can be used for:
+
+1. Image denoising.
+
+2. Feature extraction.
+
+3. Dimensionality reduction for visualization or preprocessing.
