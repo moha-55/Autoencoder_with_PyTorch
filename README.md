@@ -14,16 +14,16 @@ This project demonstrates the implementation of an autoencoder using PyTorch. Au
 ## Project Files
 - Notebook (1-Autoencoder.ipynb): Contains the code for:
 
--- Building the autoencoder model.
+1. Building the autoencoder model.
 
--- Adding a custom Gaussian noise layer.
+2. Adding a custom Gaussian noise layer.
 
--- Training and evaluating the model on a dataset.
+3. Training and evaluating the model on a dataset.
 
 - Utils (utils.py): Contains helper functions for:
 
--- Training loops.
+1. Training loops.
 
--- Model evaluation.
+2. Model evaluation.
 
--- Data preprocessing.
+3. Data preprocessing.
