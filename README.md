@@ -8,3 +8,5 @@ This project demonstrates the implementation of an autoencoder using PyTorch. Au
 - Decoder: Reconstructs the original input data from the compressed representation.
 
 - Gaussian Noise Layer: Adds Gaussian noise during training to improve the model's robustness.
+
+
