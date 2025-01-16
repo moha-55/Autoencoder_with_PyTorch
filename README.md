@@ -27,3 +27,35 @@ This project demonstrates the implementation of an autoencoder using PyTorch. Au
 2. Model evaluation.
 
 3. Data preprocessing.
+
+## Model Structure
+
+- Encoder
+
+The encoder compresses the input data into a lower-dimensional latent representation using several fully connected layers.
+
+- Decoder
+
+The decoder reconstructs the original data from the latent representation.
+
+- AddGaussianNoise Layer
+
+A custom PyTorch module that adds Gaussian noise during training to enhance model generalization.
+
+## How to Run
+
+1. Clone the repository and navigate to the project folder:
+```
+git clone <repository_url>
+cd <repository_folder>
+```
+2. Open the notebook 1-Autoencoder.ipynb in Jupyter Notebook or JupyterLab.
+
+3. Run the cells step-by-step to:
+
+- Build the model.
+
+- Train the autoencoder.
+
+- Evaluate its performance.
+
